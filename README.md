@@ -18,7 +18,7 @@ Portfolio 1 is an assignment to showcase my projects from the first year of fron
 
 ## Built With
 
-    - HTML/CSS, in Visual Studio Code.
+    HTML/CSS, in Visual Studio Code.
 
 ## Getting Started
 
@@ -40,8 +40,7 @@ To run the app, run the following commands:
 
 ## Contact
 
-<a href="www.linkedin.com/in/eirin-rydland-944b49210">
-My LinkedIn page</a>
+(https://www.linkedin.com/in/eirin-rydland-944b49210 "My LinkedIn page")
 
 ## Acknowledgments
 
