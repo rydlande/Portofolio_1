@@ -1,14 +1,15 @@
 # portofolio1.github.io
 
-Portofolio 1 - Course assigment
+### Portofolio 1 - Course assigment
 
 image
 
 This site is for my course assigment called "Portofolio 1", it consists of my 3 biggest submissions for the school year 22/23.
 
-Description
+# Description
 
 Portfolio 1 is an assignment to showcase my projects from the first year of front-end development at Noroff School of Technology. The 3 projects presented are
+
 <li>Project Exam 1</li>
 <li>Semester Project 1</li>
 <li>Cross-course project</li>
