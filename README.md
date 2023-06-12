@@ -2,7 +2,7 @@ portofolio1.github.io
 
 # Portofolio 1 - Course assigment
 
-image
+<img src="./media/portofolio_img.png" alt="picture of how portofolio1 looks like when running" style="width:300px;">
 
 This site is for my course assigment called "Portofolio 1", it consists of my 3 biggest submissions for the school year 22/23.
 
@@ -18,35 +18,25 @@ Portfolio 1 is an assignment to showcase my projects from the first year of fron
 
 ## Built With
 
-    - HTML/CSS in Visual Studio Code.
+    - HTML/CSS, in Visual Studio Code.
 
 ## Getting Started
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
+Clone the repo:
 
-    Clone the repo:
+    gh repo clone rydlande/Portofolio_1
 
-gh repo clone rydlande/Portofolio_1
+Install the dependencies:
 
-    Install the dependencies:
-
-npm install github:rydlande/Portofolio_1
-
-brew install gh
+    npm install
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
 To run the app, run the following commands:
 
-npm run start
-
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate CONTRIBUTING.md and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+    npm run start
 
 ## Contact
 
