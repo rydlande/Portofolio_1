@@ -19,25 +19,15 @@ In <b>exam 1</b> we were to create a blog, where I chose the theme of bartending
 
 ## Built With
 
-    HTML/CSS, in Visual Studio Code.
+    HTML5
+    CSS
+    GitHub
 
-## Getting Started
+## Running
 
-### Installing
+To view the page, click on the link
 
-Clone the repo:
-
-    gh repo clone rydlande/Portofolio_1
-
-Install the dependencies:
-
-    npm install
-
-### Running
-
-To run the app, run the following commands:
-
-    npm run start
+    https://rydlande.github.io/Portofolio_1/
 
 ## Contact
 
