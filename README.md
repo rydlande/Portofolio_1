@@ -40,7 +40,7 @@ To run the app, run the following commands:
 
 ## Contact
 
-(https://www.linkedin.com/in/eirin-rydland-944b49210 "My LinkedIn page")
+<a href="https://www.linkedin.com/in/eirin-rydland-944b49210">My LinkedIn page</a>
 
 ## Acknowledgments
 
